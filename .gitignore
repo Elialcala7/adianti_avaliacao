@@ -1,0 +1,6 @@
+tmp/
+cache/
+*.log
+.env
+vendor/
+app/config/database.ini
